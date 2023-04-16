@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T17:36:55 IST" name="Default suite" finished-at="2023-04-03T17:37:01 IST" duration-ms="6059">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T17:36:55 IST" name="Default test" finished-at="2023-04-03T17:37:01 IST" duration-ms="6059">
+      <class name="testNG_test_scripts.TestNG_for_XML">
+        <test-method signature="TestCase_for_xml_topic()[pri:0, instance:testNG_test_scripts.TestNG_for_XML@647e447]" started-at="2023-04-03T17:36:55 IST" name="TestCase_for_xml_topic" finished-at="2023-04-03T17:37:01 IST" duration-ms="6033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_for_xml_topic -->
+      </class> <!-- testNG_test_scripts.TestNG_for_XML -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
